@@ -8,12 +8,20 @@ pylint = "*"
 autopep8 = "*"
 flake8 = "*"
 jupyter = "*"
+mypy = "*"
+black = "*"
 
 [packages]
 pymc3 = "*"
 numpy = "*"
 graphviz = "*"
 scikit-learn = "*"
+jupyter = "*"
+pandas = "*"
+tensorflow = "*"
+tensorflow-probability = "*"
+xlrd = "*"
+gpflow = "*"
 
 [requires]
 python_version = "3.7"
